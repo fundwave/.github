@@ -3,6 +3,7 @@ name: Feature
 about: Suggest a feature or enhancement idea
 title: ''
 labels: feature
+type: Feature
 assignees: ''
 
 ---
