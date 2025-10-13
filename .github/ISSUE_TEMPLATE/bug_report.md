@@ -3,6 +3,7 @@ name: Bug report
 about: Report a bug in the app
 title: "[BUG] description"
 labels: bug
+type: Bug
 assignees: ''
 
 ---
