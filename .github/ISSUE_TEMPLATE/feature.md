@@ -17,15 +17,6 @@ Why?
 Why now?
 ---
 
-Resources
----
-
-Logic -  
-Design -  
-Tech -  
-Peer Reviewer -  
-Approver -  
-
 Scope
 ---
 
@@ -76,4 +67,4 @@ Write about test cases - Is it automated tested? Do we have unit test cases?
 (Write a detailed testing checklist in a separate comment)
 
 Not doing
---
+---

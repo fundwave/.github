@@ -4,13 +4,13 @@ Fixes import issues bug
 
 #### Resolutions
 
-- fixes getfundwave/discussions#<number>
-- resolves getfundwave/discussions/issues/<number>
+- fixes fundwave/discussions#<number>
+- resolves fundwave/discussions/issues/<number>
 
 #### Depends on
 
-- getfundwave/<repo>#<number>
-- getfundwave/<repo>/pull/<number>
+- fundwave/<repo>#<number>
+- fundwave/<repo>/pull/<number>
 
 #### Deployment
 
