@@ -10,11 +10,11 @@ assignees: ''
 
 ## Current behavior
 
-When I go to my workspace settings and try to import issues from Github, it locks on the "processing" step. It's been 6 hours now since I started the import but it is still processing.
+<!-- Explain the current behavior and the bug in detail -->
 
 ## Expected behavior
 
-Should import issues without waiting on "processing" step.
+<!-- Explain the expected behavior -->
 
 ## Is there an existing ticket?
 
@@ -22,14 +22,12 @@ Yes - [ticket link](https://fundwave.freshdesk.com/a/tickets/)
 
 ## Steps to reproduce
 
-1. Create a project
-2. Go to the workspace settings
-3. Link a Github organization on the Integration section
-4. Then on the import section, import the issues from a repository to the project
+<!-- Write detailed steps including navigation, give data examples. -->
+
 
 ## Context
 
-**Regression?** It was working until 1.15.4 / 20th July, 2024
+**Regression?** <!-- It was working until 1.15.4 / 20th July, 2024 -->
 
 **Environment:** Production
 
@@ -37,8 +35,8 @@ Yes - [ticket link](https://fundwave.freshdesk.com/a/tickets/)
 
 ## Evidence
 
-Jam Link
+<!-- Jam Link / Screenshot / Video Recording / Link for app -->
 
 ## Suggested Solutions
 
-1. Show processing steps/logs
+<!-- Write possible solutions if any -->
