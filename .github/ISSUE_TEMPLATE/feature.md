@@ -32,7 +32,9 @@ Scope
 ### Server
 
 <!---
-- List all apis, dao and server changes needed ( write breaking change in a separate comment)
+- List all apis, dao and server changes needed
+- List all the activity changes needed for entities
+- Write breaking change in a separate comment
 --->
 
 ### Database
